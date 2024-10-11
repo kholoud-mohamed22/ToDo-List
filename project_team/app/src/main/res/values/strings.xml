@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="to_do_tasks">To Do Tasks</string>
+    <string name="todo">image</string>
+</resources>
